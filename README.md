@@ -7,7 +7,7 @@ Live Demo Link: [https://legendary-monstera-8c74ad.netlify.app](https://tourmali
 
 1. React: To create the App
 2. React-Router: For Routing
-3. Redux ToolKit: For State Management
+3. Redux Saga: For State Management
 5. Axios: For Api Requests
 7. React-Spinners: For loading operations
 8. React-Toasitfy: For notifications
