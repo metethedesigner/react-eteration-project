@@ -9,6 +9,7 @@ Live Demo Link: [https://legendary-monstera-8c74ad.netlify.app](https://tourmali
 2. React-Router: For Routing
 3. Redux Saga: For State Management
 5. Axios: For Api Requests
+6. Material-UI: For ready-made components and design processes
 7. React-Spinners: For loading operations
 8. React-Toasitfy: For notifications
 9. TailwindCSS: For Everything Related to Design
